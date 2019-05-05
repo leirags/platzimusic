@@ -1,6 +1,6 @@
 <template lang="pug">
   #app
-    img(src='./assets/logo.png')
+    img(src='https://leirags.github.io/platzimusic/dist/logo.png')
     h1 {{ title }}
     spinner(v-show="loading")
     select(v-model="selectedCountry")
