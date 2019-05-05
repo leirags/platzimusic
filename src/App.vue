@@ -19,7 +19,7 @@ export default {
   name: 'app',
   data () {
     return {
-      title: 'Platzi Music',
+      title: 'Platzi Music - LeirAGS',
       artists: [],
       countries: [
         { name: 'México', value: 'mexico' },
